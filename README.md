@@ -48,7 +48,7 @@ news-scraper/
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Manav7322/news-scraper.git
+   git clone [https://github.com/Manav7322/news-scraper.git](https://github.com/Manav7322/News-Scrapper.git)
    cd news-scraper
    ```
 
