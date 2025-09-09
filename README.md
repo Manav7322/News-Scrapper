@@ -49,7 +49,6 @@ news-scraper/
 1. Clone this repo:
    ```bash
    git clone https://github.com/Manav7322/News-Scrapper.git
-   cd news-scraper
    ```
 
 2. Create a virtual environment (optional but recommended):
